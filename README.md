@@ -1,4 +1,4 @@
-# Hand Gesture Presenter
+# Wave Deck
 
 ## Description
 
@@ -24,7 +24,7 @@ A Python application that enables control of PowerPoint presentations through ha
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/ppt-handgesture.git
+   https://github.com/ashankgupta/wavedeck.git
    cd ppt-handgesture
    ```
 
@@ -32,8 +32,6 @@ A Python application that enables control of PowerPoint presentations through ha
    ```
    pip install -r requirements.txt
    ```
-
-
 
 3. (Linux with Wayland) Install ydotool for input simulation:
    ```
