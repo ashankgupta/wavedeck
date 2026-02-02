@@ -24,7 +24,7 @@ A Python application that enables control of PowerPoint presentations through ha
 
 1. Clone the repository:
    ```
-   https://github.com/ashankgupta/wavedeck.git
+   git clone https://github.com/ashankgupta/wavedeck.git
    cd ppt-handgesture
    ```
 
